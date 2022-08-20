@@ -4,6 +4,7 @@
 学习大佬博客实现的大佬，建议学习[**原博**](https://blog.csdn.net/normol/article/details/88778250)~
 
 代码地址：https://github.com/thinkinapp/3Dircadb_Use_Unet
+
 数据集下载地址：https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/
 
 
@@ -41,3 +42,7 @@
 # Reference
 
 - [医学图像分割 基于深度学习的肝脏肿瘤分割 实战(一）](<https://blog.csdn.net/normol/article/details/88778250>)
+
+https://blog.csdn.net/guoxinxin0605/article/details/123598213
+
+https://blog.csdn.net/lwf1881/article/details/121262945
