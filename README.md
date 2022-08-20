@@ -3,6 +3,10 @@
 
 学习大佬博客实现的大佬，建议学习[**原博**](https://blog.csdn.net/normol/article/details/88778250)~
 
+代码地址：https://github.com/thinkinapp/3Dircadb_Use_Unet
+数据集下载地址：https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/
+
+
 # How to Use
 
 - 运行`generate_train.py`获得训练集
